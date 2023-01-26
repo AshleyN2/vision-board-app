@@ -50,5 +50,21 @@ body {
     margin: auto;
     margin-top: 16px;
     padding: 12px 20px;
-    
+
+  }
+
+  .button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 7px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin: auto;
+    margin-top: 16px;
+    border-radius: 4px;
   }
