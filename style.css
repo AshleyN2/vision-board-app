@@ -41,3 +41,14 @@ body {
     margin-top: 2px;
     margin-bottom: 3px;
   }
+
+  .input {
+    width: 30%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 16px;
+    padding: 12px 20px;
+    
+  }
