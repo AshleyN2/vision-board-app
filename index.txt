@@ -1,0 +1,2 @@
+1. Add cards for differents goal categories
+2. JS code for adding pictures and text
