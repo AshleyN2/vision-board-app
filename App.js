@@ -8,3 +8,4 @@ visionForm.addEventListener('submit', (e) => {
     visionInput.value = '';
     socket.emit('vision', vision);
 });
+
