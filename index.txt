@@ -2,3 +2,5 @@
 2. JS code for adding pictures and text
 3. Add checkbox for goal achievement
 4. Add edit button to modify goal
+5. Use fun fonts for goal writing
+
