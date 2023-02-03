@@ -4,4 +4,5 @@
 4. Add edit button to modify goal
 5. Use fun fonts for goal writing
 6. Decide how to categorize goals
+7. Test 
 
